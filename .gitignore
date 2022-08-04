@@ -54,3 +54,6 @@ hs_err_pid*
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/metals,sbt,scala,visualstudiocode
+
+# personal data
+data/

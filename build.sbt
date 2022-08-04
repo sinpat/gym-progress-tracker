@@ -11,6 +11,7 @@ lazy val root = project
     libraryDependencies ++= Seq(
       "org.scalameta" %% "munit" % "1.0.0-M6" % Test,
       "org.http4s" %% "http4s-dsl" % http4sVersion,
-      "org.http4s" %% "http4s-ember-server" % http4sVersion
+      "org.http4s" %% "http4s-ember-server" % http4sVersion,
+      "co.fs2" %% "fs2-core" % "3.2.11"
     )
   )
