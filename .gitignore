@@ -55,5 +55,5 @@ hs_err_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/metals,sbt,scala,visualstudiocode
 
-# personal data
-data/
+# environment files
+.env
